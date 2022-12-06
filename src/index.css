@@ -9,8 +9,8 @@
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --text-color: hsl(var(--hue), var(--sat), 46%);
-  --body-color: hsl(var(--hue), var(--sat), 98%);
-  --container-color: #fff;
+  --body-color: rgba(160, 26, 213, 0.186);
+  --container-color: rgba(172, 53, 162, 0.81);
   --background-color: hsl(var(--hue), var(--sat), 10%);
   --border-color: rgba(0,0,0,0.1);
   --border-top-color: rgba(0,0,0,0.2);

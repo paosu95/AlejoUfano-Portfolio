@@ -1,44 +1,22 @@
-import dogs from '../../Assets/projects/dogsSpaAlejoUfano.png'
-import ecommerce from '../../Assets/projects/kembaEcommerceAlejoUfano.png'
-import weatherApp from '../../Assets/projects/weatherAppAlejoUfano.png'
-import foodApp from '../../Assets/projects/TwistedFoodAppAlejoUfano.png'
-import ecommerceHomePage from '../../Assets/projects/EcommerceHomePageAlejoUfano.png'
+import pokemons from '../../Assets/projects/pokemons.jpeg'
+import canchas from '../../Assets/projects/canchas.jpeg'
+
 
 export const projects = [
     {
-        img: dogs,
-        title: 'Dogs SPA',
-        description: 'Development of a SPA (Single Page Application) consuming an API (The dog API). using React, Redux, Node, Express. All components were developed with pure CSS.',
-        link: 'https://dogs-app-alpha.vercel.app/',
-        repository: 'https://github.com/AlejoUfano/PIHENRY/tree/main/PI-Dogs-main/PI-Dogs-main'
+        img: pokemons,
+        title: 'Pokemon Api',
+        description: 'Developing a pokemon web application to create pokemon, sort, filter and delete, consuming an API. using React, Redux, Node, Express. All components were developed with CSS modules. ',
+        link: 'https://pf-henry.vercel.app/',
+        repository: 'https://github.com/paosu95/Api-Pokemones'
 
     },
     {
-        img: ecommerce,
+        img: canchas,
         title: 'E-commerce',
-        description: 'E-commerce grupal project with all its features. Catalog, ordering, registration, payment gateway, shopping cart, favorites, admin dashboard and more.',
-        link: 'https://pf-henry.vercel.app/',
-        repository: 'https://github.com/franRappazzini/PF---Henry'
+        description: 'Soccer field rental group project, contains user registration and login, field creation, rating, filters, normal user dashboard, club and administrator, payment area and other',
+        link: 'https://sintetico.vercel.app/',
+        repository: 'https://github.com/paosu95/ProyectoFinal_Sintetico'
     },
-    {
-        img: weatherApp,
-        title: 'Weather App',
-        description: 'Development of a simple Weather App consuming an API (Openweathermap). With details such as temperature, humidity, weather, wind speed, etc.',
-        link: 'https://weather-app-au.vercel.app/',
-        repository: 'https://github.com/AlejoUfano/WeatherApp'
-    },
-    {
-        img: foodApp,
-        title: 'Food App',
-        description: 'Twisted Food. App with features such as menu, hot dishes and fruits section, shopping cart, login, option to add new products when logged as admin, etc.',
-        link: 'https://twisted-food-app.vercel.app/',
-        repository: 'https://github.com/AlejoUfano/TwistedFoodApp'
-    },
-    {
-        img: ecommerceHomePage,
-        title: 'Multimart',
-        description: 'Development of an ecommerce of furniture, smart phones, watches, etc. Using mainly JS and Bootstrap. (In Progress)',
-        link: 'https://e-commerce-tau-two.vercel.app/home',
-        repository: 'https://github.com/AlejoUfano/E-Commerce'
-    }
+   
 ]

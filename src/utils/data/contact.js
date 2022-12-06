@@ -2,19 +2,19 @@ export const contact = [
     {
         icon: 'uil uil-linkedin-alt',
         name: 'LinkedIn',
-        contact: 'Alejo Ufano',
-        link: 'https://www.linkedin.com/in/alejo-ufano/'
+        contact: 'Gina Suarez',
+        link: 'https://www.linkedin.com/in/gina-suarez-28453a156/'
     },
     {
         icon: 'uil uil-whatsapp',
         name: 'Whatsapp',
-        contact: '+542914497480',
-        link: 'https://wa.me/542914497480'
+        contact: '+573213283791',
+        link: 'https://wa.me/573213283791'
     },
     {
         icon: 'uil uil-envelope',
         name: 'Email',
-        contact: 'ufanoalejo@gmail.com',
-        link: 'mailto:ufanoalejo@gmail.com'
+        contact: 'ginin_95@hotmail.com',
+        link: 'correo:ginin_95@hotmail.com'
     }   
 ]

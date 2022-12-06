@@ -96,7 +96,6 @@
 .img__container {
     display: flex;
     margin-left: 5vw;
-    background: url(../../../Assets/profile.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;

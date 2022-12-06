@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react'
 import './navBar.css'
 import { Link } from 'react-scroll'                                                                                                                                                                                           
