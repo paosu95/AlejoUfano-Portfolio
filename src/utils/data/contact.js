@@ -15,6 +15,6 @@ export const contact = [
         icon: 'uil uil-envelope',
         name: 'Email',
         contact: 'ginin_95@hotmail.com',
-        link: 'correo:ginin_95@hotmail.com'
+        link: 'mailto:ginin_95@hotmail.com'
     }   
 ]

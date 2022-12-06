@@ -7,7 +7,7 @@ export const projects = [
         img: pokemons,
         title: 'Pokemon Api',
         description: 'Developing a pokemon web application to create pokemon, sort, filter and delete, consuming an API. using React, Redux, Node, Express. All components were developed with CSS modules. ',
-        link: 'https://pf-henry.vercel.app/',
+        link: '',
         repository: 'https://github.com/paosu95/Api-Pokemones'
 
     },
