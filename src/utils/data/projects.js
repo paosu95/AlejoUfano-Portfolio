@@ -13,7 +13,7 @@ export const projects = [
     },
     {
         img: canchas,
-        title: 'E-commerce',
+        title: 'Sintetico',
         description: 'Soccer field rental group project, contains user registration and login, field creation, rating, filters, normal user dashboard, club and administrator, payment area and other',
         link: 'https://sintetico.vercel.app/',
         repository: 'https://github.com/paosu95/ProyectoFinal_Sintetico'
